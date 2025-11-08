@@ -1,5 +1,8 @@
 # Flipkart Big Billion Days (BBD) - Sales Analysis
 
+<img width="920" height="502" alt="image" src="https://github.com/user-attachments/assets/a0c8916b-9197-4f32-904d-66c61d13789c" />
+
+
 [![Analysis Date](https://img.shields.io/badge/Analysis%20Date-Feb%202025-blue)](https://github.com/yourusername/Big-Billion-Days-Analysis)
 [![Data Period](https://img.shields.io/badge/Data%20Period-Week%2030--43-green)](https://github.com/yourusername/Big-Billion-Days-Analysis)
 [![Total Sales](https://img.shields.io/badge/Total%20Sales-₹638.48M-orange)](https://github.com/yourusername/Big-Billion-Days-Analysis)

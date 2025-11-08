@@ -19,7 +19,6 @@
 - [Technical Implementation](#technical-implementation)
 - [Visualizations](#visualizations)
 - [Future Scope](#future-scope)
-- [Contributors](#contributors)
 
 ---
 

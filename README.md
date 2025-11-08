@@ -1,4 +1,4 @@
-# Flipkart Big Billion Days (BBD) - Comprehensive Sales Analysis
+# Flipkart Big Billion Days (BBD) - Sales Analysis
 
 [![Analysis Date](https://img.shields.io/badge/Analysis%20Date-Feb%202025-blue)](https://github.com/yourusername/Big-Billion-Days-Analysis)
 [![Data Period](https://img.shields.io/badge/Data%20Period-Week%2030--43-green)](https://github.com/yourusername/Big-Billion-Days-Analysis)
